@@ -1,4 +1,4 @@
-Hello! My name is Austin Morgan. I'm a junior at UNC Charlotte majoring in Computer Science with a concentration in Data Science. Prior to pursuing an Undergraduate degree, I served in the United States Marine Corps as a Cryptologic Language Analyst. I enjoy working with Data and the wealth of knowledge that it can provide, especially when you take a deeper look! Currently I have experience with coding in Java and C, and am learning Python. 
+Hello! My name is Austin Morgan. I'm a Senior at UNC Charlotte majoring in Computer Science with a concentration in Data Science. Prior to pursuing an Undergraduate degree, I served in the United States Marine Corps as a Cryptologic Language Analyst. I enjoy working with Data and the wealth of knowledge that it can provide, especially when you take a deeper look! Currently I have experience with coding in Java and C, and am learning Python. 
 
 This Github will serve as a showcase for my projects and work here at UNCC, so feel free to look around!
 
